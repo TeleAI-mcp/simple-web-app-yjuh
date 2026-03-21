@@ -1,2 +1,3 @@
-# simple-web-app-yjuh
-A web application for modern development workflows
+# Simple Web App Yjuh
+
+A web application for modern development workflows.
